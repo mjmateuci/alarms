@@ -3,5 +3,7 @@
 Configurar el horario de la alarma y la url a abrir desde 'alarms.yml'
 
 Luego:
+
 $ gem install clockwork
+
 $ clockwork clock.rb
